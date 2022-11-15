@@ -17,6 +17,14 @@
 %2Fetc%2Fshadow
 %2Fetc%2Fgroups
 %2Fetc%2Fpasswd
++/.aws/credentials
++/.bash_history
++/.bashrc
++/.dbshell
++/.dockerfile
++/.mysql_history
++/.profile
++/.psql_history
 =file://
 =zip://
 =php://
